@@ -1,0 +1,15 @@
+.text-custom{
+	color: green;
+}
+.bg-custom{
+	background-color: #303f9f;
+}
+.navbar .nav-item:hover .nav-link{
+	background-color: white;
+	color:#303f9f;
+	border-radius: 15px;
+}
+
+.border-custom{
+	border-color: transparent;
+}
